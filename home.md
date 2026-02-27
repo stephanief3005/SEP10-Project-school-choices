@@ -2,5 +2,5 @@
 # Home
 ---
 ## Your school alarm is ringing what shall you do?
-## [on-time]()
-## [late]()
+## []()
+## [go on phone](bad/phone.md)
