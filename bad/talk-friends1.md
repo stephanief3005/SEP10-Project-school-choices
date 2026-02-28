@@ -1,6 +1,6 @@
 # You're in shcool making choices that define your furture!
 # Dismissal
 ---
-## Its the end of the day you have homework and missing assignments now sounds stressful! (Double the work) Your friends ask you if you wanna go out with them??
+## Its the end of the day now. You had a fun time talking to yours friend but.You have homework and missing assignments now sounds stressful! (Meaning double the work) Now your friends ask you if you wanna go out with them??
 ## [Go out with friends](../bad/outfriends.md)
 ## [Go home](good/home)
