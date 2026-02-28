@@ -1,4 +1,4 @@
-# You're in shcool making choices that define your furture!
+# You're in school making choices that define your furture!
 ## Home
 ---
 ## You have plenty of time to do work but you look at the left at your video games and then the right on your desk...

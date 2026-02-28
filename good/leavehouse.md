@@ -1,4 +1,4 @@
-# You're in shcool making choices that define your furture!
+# You're in school making choices that define your furture!
 # Outside
 ---
 ## After you got ready you leave the house

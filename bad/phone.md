@@ -1,4 +1,4 @@
-# You're in shcool making choices that define your furture!
+# You're in school making choices that define your furture!
 # Outside
 ---
 ## Many minutes pass by scrolling and texting on your phone you look at the school and realize your gonna be late to school. You grab all your stuff and step outside should you?

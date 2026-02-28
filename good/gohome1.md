@@ -1,4 +1,4 @@
-# You're in shcool making choices that define your furture!
+# You're in school making choices that define your furture!
 # Home
 ---
 You get to home on time and now your deciding what to do next?

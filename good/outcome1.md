@@ -1,4 +1,4 @@
-# You're in shcool making choices that define your furture!
+# You're in school making choices that define your furture!
 # Class
 ---
 ## You only have homework for the rest of home now

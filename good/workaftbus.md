@@ -1,4 +1,4 @@
-# You're in shcool making choices that define your furture!
+# You're in school making choices that define your furture!
 # School
 ---
 Great it's the end of the day you finished all your work now your just missing some homework!! But your friends ask you wanna hang out??

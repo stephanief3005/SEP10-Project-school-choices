@@ -1,4 +1,4 @@
-# You're in shcool making choices that define your furture!
+# You're in school making choices that define your furture!
 # Class
 ---
 ## You end up getting marked late for 1st period you ended catching the late bus! On most of your classes your friends are there but there's classwork that must be done.
